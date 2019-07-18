@@ -1,7 +1,7 @@
-# symfony_lemp_docker_starter
+# symfony 4 lemp docker starter
 
 
-A simple way to create a Symfony application using Docker.
+A simple way to create a Symfony 4 application using Docker.
 
 The stack contain :
 
@@ -9,9 +9,9 @@ The stack contain :
 
  - PHP-fpm
 
- - mysql
+ - Mysql
 
- - adminer
+ - Adminer
 
 # usage
 
