@@ -26,6 +26,6 @@ You can change the 90 port in the __.env__ file
 
 
 
-Psst! It will work without making a Symfony application aswell ;-)
+Psst! It will also work without making a Symfony application.  ;-)
 
 
